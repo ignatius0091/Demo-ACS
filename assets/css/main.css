@@ -2135,7 +2135,7 @@ section {
 }
 
 .blog .blog-details .title {
-  font-size: 28px;
+  font-size: 32px;
   font-weight: 700;
   padding: 0;
   margin: 20px 0 0 0;
@@ -2147,7 +2147,18 @@ section {
 }
 
 .blog .blog-details .content h3 {
-  font-size: 24px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.blog .blog-details .content h1 {
+  font-size: 32px;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+.blog .blog-details .content h2 {
+  font-size: 26px;
   margin-top: 30px;
   font-weight: bold;
 }
